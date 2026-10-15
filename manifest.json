@@ -1,0 +1,13 @@
+{
+  "name": "School Bell Studio",
+  "short_name": "School Bell",
+  "description": "A dark school bell soundboard with hold-to-play sounds and custom bell schedules.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0d15",
+  "theme_color": "#0b1020",
+  "icons": [
+    {"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
